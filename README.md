@@ -27,6 +27,28 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+## How To Install Project
+
+1. Download Or Clone Project
+
+2. Extract File
+
+3. Open CMD in Directory Type " composer install "
+
+4. Next Type " php artisan key:generate "
+
+5. Next Type " php artisan migrate "
+
+6. And To Running Project Type " php artisan serve "
+
+7. Show Data In POSTMAN Type " http://testapi.test/api/produk "
+
+8. Add Data In POSTMAN Type " http://testapi.test/api/produk/store "
+
+9. Update Data In POSTMAN Type " http://testapi.test/api/produk/update/id "
+
+10. Destroy Data In POSTMAN Type " http://testapi.test/api/produk/destroy/id "
+
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
